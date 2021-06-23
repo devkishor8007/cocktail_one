@@ -6,7 +6,7 @@ A new Flutter Complete Cocktail One as The Margarita House - Flutter Application
 
 It's the android application of Cocktail One as The Margarita House. I am getting the data from API.
 
-Cocktail One App Final UI/UX
+Cocktail One App Final Flutter
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/73419211/122340685-4ec1cb00-cf62-11eb-8c28-8581a6aa3586.jpg" height="500" width="260">
